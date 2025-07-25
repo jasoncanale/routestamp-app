@@ -47,7 +47,7 @@ export default function RootLayout({
           <CurrencyProvider>
             <CountryProvider>
               <TripsProvider>
-                {children}
+        {children}
               </TripsProvider>
             </CountryProvider>
           </CurrencyProvider>

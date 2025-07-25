@@ -124,7 +124,7 @@ export default function Home() {
               </p>
             </CardContent>
           </Card>
-          
+
           <Card>
                           <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                 <CardTitle className="text-sm font-medium">Progress</CardTitle>
@@ -207,7 +207,7 @@ export default function Home() {
             </CardContent>
           </Card>
         </div>
-      </div>
+    </div>
     </AppLayout>
   )
 }
